@@ -1,16 +1,23 @@
-import React from 'react'
-import { Routes, Route } from 'react-router-dom'
+import React from 'react';
+import { Routes, Route } from 'react-router-dom';
+import { PropertyProvider } from './context/PropertyContext';
+import Navbar from './components/common/Navbar';
+import Footer from './components/common/Footer';
+import HomePage from './pages/HomePage';
 
 export default function App() {
   return (
-    <div className="min-h-screen flex flex-col bg-slate-50 text-slate-900">
-      <header className="bg-brand-900 text-white p-4">
-        <h1 className="text-xl font-bold">HavenEstate</h1>
-      </header>
-      <main className="flex-1 p-6">
-        <h2 className="text-2xl font-semibold">Welcome to HavenEstate</h2>
-        <p className="text-slate-600 mt-2">Find your dream home with video walkthroughs and photo tours.</p>
-      </main>
-    </div>
-  )
+    <PropertyProvider>
+      <div className="min-h-screen flex flex-col bg-slate-50 text-slate-900">
+        <Navbar />
+        <main className="flex-1">
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="*" element={<div className="p-8 text-center">Loading page...</div>} />
+          </Routes>
+        </main>
+        <Footer />
+      </div>
+    </PropertyProvider>
+  );
 }
