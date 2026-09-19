@@ -5,6 +5,8 @@ import Navbar from './components/common/Navbar';
 import Footer from './components/common/Footer';
 import HomePage from './pages/HomePage';
 import PropertiesPage from './pages/PropertiesPage';
+import PropertyDetailsPage from './pages/PropertyDetailsPage';
+import NotFoundPage from './pages/NotFoundPage';
 
 export default function App() {
   return (
@@ -15,7 +17,8 @@ export default function App() {
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/properties" element={<PropertiesPage />} />
-            <Route path="*" element={<div className="p-12 text-center text-slate-600 font-semibold">Page under construction...</div>} />
+            <Route path="/property/:slug" element={<PropertyDetailsPage />} />
+            <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </main>
         <Footer />
