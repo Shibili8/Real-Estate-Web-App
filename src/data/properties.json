@@ -1,0 +1,843 @@
+[
+  {
+    "id": "PROP-1025",
+    "slug": "luxury-4bhk-villa-calicut",
+    "title": "Luxury 4 BHK Contemporary Villa",
+    "type": "Villa",
+    "listingType": "Buy",
+    "status": "Available",
+    "price": 12500000,
+    "priceDisplay": "₹1.25 Cr",
+    "location": {
+      "city": "Calicut",
+      "locality": "PT Usha Road",
+      "state": "Kerala"
+    },
+    "specs": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 3400,
+      "parking": 2,
+      "furnishing": "Fully Furnished"
+    },
+    "description": "An exquisite 4 BHK modern architectural villa situated in the heart of Calicut. Built with imported Italian marble flooring, expansive floor-to-ceiling glass facades, landscaped courtyard, and custom teak wood cabinetry. Minutes away from prime beaches, cafes, and healthcare hubs.",
+    "amenities": [
+      "Private Swimming Pool",
+      "Landscaped Garden",
+      "Smart Home Automation",
+      "CCTV Security",
+      "24/7 Power Backup",
+      "Covered Car Parking",
+      "Rooftop Terrace Lounge"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+        "category": "Exterior",
+        "caption": "Front view of the contemporary 4 BHK villa with evening illumination",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "category": "Living Room",
+        "caption": "Double-height living room with Italian marble flooring and floor-to-ceiling windows",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80",
+        "category": "Kitchen",
+        "caption": "Modern modular island kitchen with quartz countertops and built-in appliances",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bedroom",
+        "caption": "Master suite with wooden accents, walk-in closet, and garden-facing balcony",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bathroom",
+        "caption": "Spa-inspired en-suite bathroom with glass walk-in shower and freestanding soaking tub",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=1200&q=80",
+        "category": "Exterior",
+        "caption": "Private courtyard swimming pool with sun deck",
+        "isCover": false
+      }
+    ],
+    "videos": [
+      {
+        "type": "walkthrough",
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "thumbnail": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=600&q=80",
+        "title": "Full Architectural Walkthrough Video Tour"
+      }
+    ],
+    "createdAt": "2026-09-01",
+    "featured": true
+  },
+  {
+    "id": "PROP-1026",
+    "slug": "sea-facing-3bhk-marine-drive-kochi",
+    "title": "Sea Facing 3 BHK Premium Apartment",
+    "type": "Apartment",
+    "listingType": "Buy",
+    "status": "Available",
+    "price": 9200000,
+    "priceDisplay": "₹92 Lakhs",
+    "location": {
+      "city": "Kochi",
+      "locality": "Marine Drive",
+      "state": "Kerala"
+    },
+    "specs": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 2150,
+      "parking": 1,
+      "furnishing": "Semi-Furnished"
+    },
+    "description": "Wake up to endless backwater and Arabian Sea views from this 14th-floor corner residence on Marine Drive. Features an oversized balcony, central air conditioning, designer false ceilings, and premium sanitary fittings.",
+    "amenities": [
+      "Sea View Balcony",
+      "Gymnasium",
+      "Infinity Swimming Pool",
+      "High-speed Elevators",
+      "Children's Play Area",
+      "Clubhouse",
+      "CCTV Security"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+        "category": "Exterior",
+        "caption": "High-rise tower overlooking the waterfront promenade",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "category": "Living Room",
+        "caption": "Panoramic sunset views from the open-plan living and dining hall",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80",
+        "category": "Kitchen",
+        "caption": "Open European style kitchen with breakfast bar",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bedroom",
+        "caption": "Master bedroom with direct views of passing ships and harbor",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bathroom",
+        "caption": "Modern bathroom with premium chrome fittings and LED illuminated vanity",
+        "isCover": false
+      }
+    ],
+    "videos": [
+      {
+        "type": "drone",
+        "url": "https://www.youtube.com/embed/ysz5S6PUM-U",
+        "thumbnail": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=600&q=80",
+        "title": "Aerial Drone View of Marine Drive Skyline"
+      }
+    ],
+    "createdAt": "2026-08-25",
+    "featured": true
+  },
+  {
+    "id": "PROP-1027",
+    "slug": "modern-3bhk-apartment-indiranagar-bangalore",
+    "title": "Modern 3 BHK Luxury Flat in Indiranagar",
+    "type": "Apartment",
+    "listingType": "Rent",
+    "status": "Available",
+    "price": 65000,
+    "priceDisplay": "₹65,000/mo",
+    "location": {
+      "city": "Bangalore",
+      "locality": "Indiranagar 100ft Road",
+      "state": "Karnataka"
+    },
+    "specs": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1850,
+      "parking": 2,
+      "furnishing": "Fully Furnished"
+    },
+    "description": "Lavishly furnished 3 BHK home in a boutique community right in Indiranagar. Comes equipped with high-end furniture, Bosch dishwasher, smart TVs in all rooms, and high-speed fiber internet.",
+    "amenities": [
+      "Power Backup",
+      "Covered Car Parking",
+      "24/7 Security",
+      "Rooftop Gym",
+      "EV Charging Point",
+      "Wi-Fi Connectivity"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "category": "Living Room",
+        "caption": "Warm Scandinavian styled living area with plush sofa and art pieces",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "category": "Dining Room",
+        "caption": "Custom 6-seater solid wood dining table adjacent to kitchen",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80",
+        "category": "Kitchen",
+        "caption": "Fully loaded chef's kitchen with chimney, oven, and dual refrigerator",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1540518614846-7ede433c4ef0?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bedroom",
+        "caption": "Spacious master bedroom with king bed and dedicated workspace",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bathroom",
+        "caption": "Clean white tiled bathroom with raindrop shower",
+        "isCover": false
+      }
+    ],
+    "videos": [],
+    "createdAt": "2026-09-10",
+    "featured": false
+  },
+  {
+    "id": "PROP-1028",
+    "slug": "heritage-colonial-4bhk-house-calicut",
+    "title": "Heritage Colonial 4 BHK Independent House",
+    "type": "House",
+    "listingType": "Buy",
+    "status": "Available",
+    "price": 8500000,
+    "priceDisplay": "₹85 Lakhs",
+    "location": {
+      "city": "Calicut",
+      "locality": "Chevayur",
+      "state": "Kerala"
+    },
+    "specs": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 2900,
+      "parking": 3,
+      "furnishing": "Semi-Furnished"
+    },
+    "description": "A charming blend of traditional Kerala architecture and modern luxuries. Features a central 'Nadumuttam' (open courtyard), wood-carved verandas, terracotta clay roof tiles, and an expansive 15-cent fruit orchard compound.",
+    "amenities": [
+      "Traditional Courtyard",
+      "Fruit Orchard & Garden",
+      "Deep Well & Corporation Water",
+      "Solar Water Heater",
+      "Boundary Wall with Gate",
+      "Car Porch"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "category": "Exterior",
+        "caption": "Front elevation showcasing heritage woodwork and tiled sloped roofs",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+        "category": "Living Room",
+        "caption": "Airy traditional living room featuring restored antique rosewood furniture",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556912173-3bb406ef7e77?auto=format&fit=crop&w=1200&q=80",
+        "category": "Kitchen",
+        "caption": "Modern wet and dry kitchens with granite counters and pantry storage",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bedroom",
+        "caption": "Airy ground-floor guest bedroom overlooking the mango groves",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bathroom",
+        "caption": "Contemporary bathroom with skylight ventilation",
+        "isCover": false
+      }
+    ],
+    "videos": [
+      {
+        "type": "walkthrough",
+        "url": "https://www.youtube.com/embed/L_LUpnjgPso",
+        "thumbnail": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=600&q=80",
+        "title": "Heritage Home Architectural Tour"
+      }
+    ],
+    "createdAt": "2026-08-15",
+    "featured": true
+  },
+  {
+    "id": "PROP-1029",
+    "slug": "beachside-luxury-villa-candolim-goa",
+    "title": "Beachside 5 BHK Private Pool Villa",
+    "type": "Villa",
+    "listingType": "Buy",
+    "status": "Available",
+    "price": 28000000,
+    "priceDisplay": "₹2.8 Cr",
+    "location": {
+      "city": "Goa",
+      "locality": "Candolim Beach",
+      "state": "Goa"
+    },
+    "specs": {
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "area": 4800,
+      "parking": 3,
+      "furnishing": "Fully Furnished"
+    },
+    "description": "Ultra-exclusive Portuguese-Goan villa merely 200 meters from Candolim beach. Boasts a private cascading lap pool, outdoor barbecue gazebo, lush palms, designer suites, and high ROI holiday rental yield.",
+    "amenities": [
+      "Private Swimming Pool",
+      "BBQ Gazebo",
+      "Beach Access",
+      "24/7 Butler & Security",
+      "High Speed Wi-Fi",
+      "Solar Power Backup",
+      "Bar Counter"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
+        "category": "Exterior",
+        "caption": "Exterior view showing poolside loungers and tropical landscaping",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "category": "Living Room",
+        "caption": "Sprawling living room with custom cane furniture and coastal palettes",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556911221-50e50d6f4618?auto=format&fit=crop&w=1200&q=80",
+        "category": "Kitchen",
+        "caption": "State of the art open kitchen with cocktail bar island",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bedroom",
+        "caption": "Master bedroom with private terrace overlooking coconut groves",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bathroom",
+        "caption": "Open-to-sky outdoor shower and stone bathtub area",
+        "isCover": false
+      }
+    ],
+    "videos": [
+      {
+        "type": "drone",
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "thumbnail": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=600&q=80",
+        "title": "Drone Tour: Villa and Candolim Beach Coastline"
+      }
+    ],
+    "createdAt": "2026-09-08",
+    "featured": true
+  },
+  {
+    "id": "PROP-1030",
+    "slug": "prime-commercial-land-kakkanad-kochi",
+    "title": "Prime 25-Cent Commercial Plot near Infopark",
+    "type": "Land",
+    "listingType": "Buy",
+    "status": "Available",
+    "price": 37500000,
+    "priceDisplay": "₹3.75 Cr",
+    "location": {
+      "city": "Kochi",
+      "locality": "Kakkanad",
+      "state": "Kerala"
+    },
+    "specs": {
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area": 10890,
+      "parking": 0,
+      "furnishing": "Unfurnished"
+    },
+    "description": "Clear title 25 cents of prime four-lane road frontage land situated 500 meters from Kochi Infopark Phase 2. High commercial FAR eligibility, ideal for IT tech offices, boutique hotels, or luxury apartment development.",
+    "amenities": [
+      "Four Lane Road Frontage",
+      "Clear Title & Sanctioned",
+      "High Commercial FAR",
+      "Direct Water & Power Lines",
+      "Street Lighting"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+        "category": "Plot Overview",
+        "caption": "Wide angle view of the cleared and leveled commercial parcel",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1200&q=80",
+        "category": "Surroundings",
+        "caption": "Lush roadside boundary facing arterial roadway",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1524813686514-a57563d77d66?auto=format&fit=crop&w=1200&q=80",
+        "category": "Access Road",
+        "caption": "Direct asphalt road frontage with utility poles",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1498084393753-b411b2d26b34?auto=format&fit=crop&w=1200&q=80",
+        "category": "Surroundings",
+        "caption": "Nearby commercial tech parks and commercial hub infrastructure",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+        "category": "Overview",
+        "caption": "Development corridor perspective",
+        "isCover": false
+      }
+    ],
+    "videos": [],
+    "createdAt": "2026-08-30",
+    "featured": false
+  },
+  {
+    "id": "PROP-1031",
+    "slug": "luxury-sky-penthouse-worli-mumbai",
+    "title": "Luxury 4 BHK Sky Penthouse in Worli",
+    "type": "Apartment",
+    "listingType": "Buy",
+    "status": "Available",
+    "price": 95000000,
+    "priceDisplay": "₹9.5 Cr",
+    "location": {
+      "city": "Mumbai",
+      "locality": "Worli Sea Face",
+      "state": "Maharashtra"
+    },
+    "specs": {
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "area": 4200,
+      "parking": 3,
+      "furnishing": "Fully Furnished"
+    },
+    "description": "An ultra-luxurious penthouse perched on the 42nd level overlooking the Bandra-Worli Sea Link. Custom imported finishes, private plunge pool on the sky deck, biometric elevator access, and 5-star concierge services.",
+    "amenities": [
+      "Sea Link Views",
+      "Private Sky Deck Pool",
+      "Concierge Service",
+      "Valet Parking",
+      "Private Lift Access",
+      "World Class Spa & Gym",
+      "CCTV Security"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1200&q=80",
+        "category": "Living Room",
+        "caption": "Grand living room with unobstructed views of the Arabian Sea and Sea Link",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502005229762-ee1b2da97ba5?auto=format&fit=crop&w=1200&q=80",
+        "category": "Exterior",
+        "caption": "Towering architectural facade on Worli seafront",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "category": "Dining Room",
+        "caption": "Sky-dining area with designer crystal chandelier",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bedroom",
+        "caption": "Master bedroom with wrap-around balcony and automated blackout blinds",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bathroom",
+        "caption": "Marble bathroom featuring freestanding tub with sunset outlook",
+        "isCover": false
+      }
+    ],
+    "videos": [
+      {
+        "type": "walkthrough",
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "thumbnail": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=600&q=80",
+        "title": "Inside Worli's Most Exclusive Sky Penthouse"
+      }
+    ],
+    "createdAt": "2026-09-05",
+    "featured": true
+  },
+  {
+    "id": "PROP-1032",
+    "slug": "cozy-2bhk-flat-koramangala-bangalore",
+    "title": "Cozy 2 BHK Flat for Rent in Koramangala",
+    "type": "Apartment",
+    "listingType": "Rent",
+    "status": "Available",
+    "price": 38000,
+    "priceDisplay": "₹38,000/mo",
+    "location": {
+      "city": "Bangalore",
+      "locality": "Koramangala 4th Block",
+      "state": "Karnataka"
+    },
+    "specs": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1200,
+      "parking": 1,
+      "furnishing": "Fully Furnished"
+    },
+    "description": "Charming and well-ventilated 2 BHK apartment in prime Koramangala 4th Block. Walking distance from famous eateries, parks, and startup incubators. Ready to move with sofa, beds, kitchen appliances, and geysers.",
+    "amenities": [
+      "Covered Car Parking",
+      "24/7 Security & Guard",
+      "Water Purifier",
+      "Balcony Garden",
+      "Power Backup"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "category": "Living Room",
+        "caption": "Bright living area with comfortable seating and natural sunlight",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556912167-f556f1f39fdf?auto=format&fit=crop&w=1200&q=80",
+        "category": "Kitchen",
+        "caption": "Compact modern kitchen with chimney and microwave",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bedroom",
+        "caption": "Cozy primary bedroom with queen bed and wardrobe",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bedroom",
+        "caption": "Secondary bedroom configured for study or home office",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bathroom",
+        "caption": "Neat tiled bathroom with instant hot water geyser",
+        "isCover": false
+      }
+    ],
+    "videos": [],
+    "createdAt": "2026-09-12",
+    "featured": false
+  },
+  {
+    "id": "PROP-1033",
+    "slug": "independent-3bhk-villa-jubilee-hills-hyderabad",
+    "title": "Gated 3 BHK Villa in Jubilee Hills",
+    "type": "Villa",
+    "listingType": "Rent",
+    "status": "Available",
+    "price": 110000,
+    "priceDisplay": "₹1.1 Lakh/mo",
+    "location": {
+      "city": "Hyderabad",
+      "locality": "Jubilee Hills",
+      "state": "Telangana"
+    },
+    "specs": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 3100,
+      "parking": 2,
+      "furnishing": "Semi-Furnished"
+    },
+    "description": "Prestigious 3 BHK triplex villa in an elite gated community at Jubilee Hills. High ceilings, private elevator within the villa, landscaped patio garden, servant quarters, and clubhouse access.",
+    "amenities": [
+      "Gated Community Security",
+      "Internal Home Elevator",
+      "Clubhouse & Swimming Pool",
+      "Tennis Court",
+      "Servant Quarters",
+      "Power Backup"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "category": "Exterior",
+        "caption": "Elegant front elevation with manicured lawn and dual car parking",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+        "category": "Living Room",
+        "caption": "Grand living room with imported Italian marble flooring",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80",
+        "category": "Kitchen",
+        "caption": "Modern designer kitchen with breakfast counter",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bedroom",
+        "caption": "Master bedroom suite with balcony overlooking the community park",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bathroom",
+        "caption": "En-suite bathroom with glass enclosure and designer vanity",
+        "isCover": false
+      }
+    ],
+    "videos": [
+      {
+        "type": "walkthrough",
+        "url": "https://www.youtube.com/embed/ysz5S6PUM-U",
+        "thumbnail": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=600&q=80",
+        "title": "Jubilee Hills Gated Villa Walkthrough"
+      }
+    ],
+    "createdAt": "2026-08-20",
+    "featured": false
+  },
+  {
+    "id": "PROP-1034",
+    "slug": "residential-villa-plot-devanahalli-bangalore",
+    "title": "Residential Villa Plot 2400 sq.ft near Airport",
+    "type": "Land",
+    "listingType": "Buy",
+    "status": "Available",
+    "price": 5400000,
+    "priceDisplay": "₹54 Lakhs",
+    "location": {
+      "city": "Bangalore",
+      "locality": "Devanahalli",
+      "state": "Karnataka"
+    },
+    "specs": {
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area": 2400,
+      "parking": 0,
+      "furnishing": "Unfurnished"
+    },
+    "description": "BIAAPA approved residential villa plot in a premium plotted enclave off Bellary Road. Gated layout with underground cabling, wide tarred roads, avenue plantation, and sports amenities. 15 minutes from KIA Airport.",
+    "amenities": [
+      "BIAAPA Approved",
+      "Gated Enclave with Security",
+      "Underground Drainage & Electricity",
+      "Park & Jogging Track",
+      "Avenue Plantation"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+        "category": "Plot Overview",
+        "caption": "Corner villa plot with demarcated boundary markers",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1200&q=80",
+        "category": "Surroundings",
+        "caption": "Tree-lined 40-foot wide internal asphalt road",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1524813686514-a57563d77d66?auto=format&fit=crop&w=1200&q=80",
+        "category": "Park",
+        "caption": "Community landscaped green garden and clubhouse",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1498084393753-b411b2d26b34?auto=format&fit=crop&w=1200&q=80",
+        "category": "Surroundings",
+        "caption": "Close proximity to international airport corridor",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+        "category": "Overview",
+        "caption": "Master planned community landscape",
+        "isCover": false
+      }
+    ],
+    "videos": [],
+    "createdAt": "2026-09-02",
+    "featured": false
+  },
+  {
+    "id": "PROP-1035",
+    "slug": "modern-duplex-house-baner-pune",
+    "title": "Modern 3 BHK Duplex Townhouse in Baner",
+    "type": "House",
+    "listingType": "Buy",
+    "status": "Available",
+    "price": 14000000,
+    "priceDisplay": "₹1.4 Cr",
+    "location": {
+      "city": "Pune",
+      "locality": "Baner - Pashan Link Road",
+      "state": "Maharashtra"
+    },
+    "specs": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 2500,
+      "parking": 2,
+      "furnishing": "Fully Furnished"
+    },
+    "description": "Architecturally planned duplex townhouse with a private terrace garden. Located close to Hinjewadi IT hub. Premium modular kitchen, wooden flooring in master bedroom, solar heating, and 2 dedicated stilt parking slots.",
+    "amenities": [
+      "Private Terrace Garden",
+      "Solar Water Heating",
+      "Covered Stilt Parking",
+      "24/7 Security",
+      "Clubhouse & Gym",
+      "Power Backup"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "category": "Exterior",
+        "caption": "Stylish facade with cantilever balconies and ambient warm lighting",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "category": "Living Room",
+        "caption": "Open-concept living room flowing into dining space",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80",
+        "category": "Kitchen",
+        "caption": "L-shaped modular kitchen with soft-close drawers and quartz worktop",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bedroom",
+        "caption": "Master bedroom with attached walk-in dressing alcove",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bathroom",
+        "caption": "High-end bathroom with rain shower and glass partition",
+        "isCover": false
+      }
+    ],
+    "videos": [],
+    "createdAt": "2026-08-18",
+    "featured": false
+  },
+  {
+    "id": "PROP-1036",
+    "slug": "spacious-3bhk-flat-adyar-chennai",
+    "title": "Spacious 3 BHK Luxury Apartment in Adyar",
+    "type": "Apartment",
+    "listingType": "Rent",
+    "status": "Available",
+    "price": 55000,
+    "priceDisplay": "₹55,000/mo",
+    "location": {
+      "city": "Chennai",
+      "locality": "Adyar Gandhi Nagar",
+      "state": "Tamil Nadu"
+    },
+    "specs": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1950,
+      "parking": 1,
+      "furnishing": "Semi-Furnished"
+    },
+    "description": "Prime residential location in peaceful Adyar. Very airy flat with 3 sides open, wide balconies overlooking green canopy, 100% vaastu compliant, modular woodwork, and 24-hr treated water supply.",
+    "amenities": [
+      "100% Vaastu Compliant",
+      "Generator Backup",
+      "Lift Access",
+      "Covered Car Park",
+      "Security & Intercom",
+      "Children Play Area"
+    ],
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+        "category": "Exterior",
+        "caption": "Modern building elevation nestled among serene residential trees",
+        "isCover": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "category": "Living Room",
+        "caption": "Expansive hall with natural cross-ventilation and balcony",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556912173-3bb406ef7e77?auto=format&fit=crop&w=1200&q=80",
+        "category": "Kitchen",
+        "caption": "Spacious modular kitchen with service utility area",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1540518614846-7ede433c4ef0?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bedroom",
+        "caption": "Large master bedroom with floor-to-ceiling wardrobes",
+        "isCover": false
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=1200&q=80",
+        "category": "Bathroom",
+        "caption": "Clean bathroom with modern sanitary fittings and ceramic tiles",
+        "isCover": false
+      }
+    ],
+    "videos": [],
+    "createdAt": "2026-09-14",
+    "featured": false
+  }
+]
