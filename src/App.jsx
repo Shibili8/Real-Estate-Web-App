@@ -6,6 +6,7 @@ import Footer from './components/common/Footer';
 import HomePage from './pages/HomePage';
 import PropertiesPage from './pages/PropertiesPage';
 import PropertyDetailsPage from './pages/PropertyDetailsPage';
+import AdminAddPropertyPage from './pages/AdminAddPropertyPage';
 import NotFoundPage from './pages/NotFoundPage';
 
 export default function App() {
@@ -18,6 +19,7 @@ export default function App() {
             <Route path="/" element={<HomePage />} />
             <Route path="/properties" element={<PropertiesPage />} />
             <Route path="/property/:slug" element={<PropertyDetailsPage />} />
+            <Route path="/admin/add-property" element={<AdminAddPropertyPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </main>
