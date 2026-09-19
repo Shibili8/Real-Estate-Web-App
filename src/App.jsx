@@ -4,6 +4,7 @@ import { PropertyProvider } from './context/PropertyContext';
 import Navbar from './components/common/Navbar';
 import Footer from './components/common/Footer';
 import HomePage from './pages/HomePage';
+import PropertiesPage from './pages/PropertiesPage';
 
 export default function App() {
   return (
@@ -13,7 +14,8 @@ export default function App() {
         <main className="flex-1">
           <Routes>
             <Route path="/" element={<HomePage />} />
-            <Route path="*" element={<div className="p-8 text-center">Loading page...</div>} />
+            <Route path="/properties" element={<PropertiesPage />} />
+            <Route path="*" element={<div className="p-12 text-center text-slate-600 font-semibold">Page under construction...</div>} />
           </Routes>
         </main>
         <Footer />
