@@ -1,5 +1,9 @@
 # HavenEstate - Premium Real Estate Web Application
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-haven--estate--jade.vercel.app-0259a1?style=for-the-badge&logo=vercel)](https://haven-estate-jade.vercel.app/)
+
+> 🌐 **Live Demo Website:** [https://haven-estate-jade.vercel.app/](https://haven-estate-jade.vercel.app/)
+
 A modern, responsive real estate web portal built with **React 18**, **Vite**, **Tailwind CSS**, and **React Router v6**. Features URL-synced multi-parameter filters, high-definition photo galleries with full-screen lightboxes, video walkthroughs and aerial drone tours, verified property inquiries, a mobile sticky contact bar, and an Admin Property Creator with multi-image preview and reordering.
 
 ---
@@ -150,6 +154,8 @@ The repository has been developed incrementally with atomic, descriptive commits
 7. `feat(admin): add admin property creator with multi-image upload, reordering, and video support`
 8. `docs: add comprehensive readme and push instructions`
 9. `feat(wishlist): implement property bookmarking and saved properties page with local storage`
+10. `docs: update documentation with wishlist system details`
+11. `chore: add vercel.json for client-side spa routing and live demo link`
 
 ---
 
