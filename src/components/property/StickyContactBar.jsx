@@ -3,7 +3,7 @@ import { Phone, MessageSquare, Send } from 'lucide-react';
 
 export default function StickyContactBar({
   propertyId,
-  phoneNumber = '+919876543210',
+  phoneNumber = '+919544525989',
   onEnquireClick,
 }) {
   const whatsappMessage = encodeURIComponent(
@@ -24,7 +24,7 @@ export default function StickyContactBar({
 
         {/* 2. WhatsApp Button */}
         <a
-          href={`https://wa.me/919876543210?text=${whatsappMessage}`}
+          href={`https://wa.me/919544525989?text=${whatsappMessage}`}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex flex-col sm:flex-row items-center justify-center gap-1 sm:gap-2 py-2.5 px-3 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs transition-colors shadow-xs"

@@ -498,16 +498,16 @@ export default function PropertyDetailsPage() {
               <div className="space-y-2.5 pt-2">
                 {/* Call Button */}
                 <a
-                  href="tel:+919876543210"
+                  href="tel:+919544525989"
                   className="w-full inline-flex items-center justify-center gap-2 py-3 px-4 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-900 font-bold text-sm transition-colors"
                 >
                   <Phone className="w-4 h-4 text-brand-700" />
-                  <span>Call +91 98765 43210</span>
+                  <span>Call +91 95445 25989</span>
                 </a>
 
                 {/* WhatsApp Button */}
                 <a
-                  href={`https://wa.me/919876543210?text=${whatsappMessage}`}
+                  href={`https://wa.me/919544525989?text=${whatsappMessage}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full inline-flex items-center justify-center gap-2 py-3 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-sm transition-colors shadow-sm"
@@ -571,7 +571,7 @@ export default function PropertyDetailsPage() {
       {/* Mobile Sticky Contact Bar */}
       <StickyContactBar
         propertyId={id}
-        phoneNumber="+919876543210"
+        phoneNumber="+919544525989"
         onEnquireClick={handleScrollToEnquiry}
       />
     </div>
