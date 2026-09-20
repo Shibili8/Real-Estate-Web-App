@@ -61,7 +61,14 @@ A modern, responsive real estate web portal built with **React 18**, **Vite**, *
 - **Mobile Sticky Bottom Bar**: Call | WhatsApp | Enquire (scrolls directly to the enquiry section).
 - **Invalid Slug Handling**: Renders a dedicated 404 / Property Not Found state with a return button.
 
-### 4. Admin "Add Property" Form (`/admin/add-property`)
+### 4. Wishlist & Bookmarking System (`/wishlist` & `/saved`)
+- **Interactive Heart Toggle**: Floating heart button on all property cards and detail headers with micro-interaction pop animation.
+- **Navbar Live Counter**: Shows real-time badge count of bookmarked homes (`Wishlist (X)`) on desktop and mobile menus.
+- **Dedicated Saved Page**: Full directory grid of bookmarked properties, quick category filters, and a "Clear Wishlist" action.
+- **LocalStorage Persistence**: Saved properties remain preserved across browser tabs and sessions.
+- **Warm Empty State**: Illustrated empty state with direct CTA encouraging exploration when zero items are saved.
+
+### 5. Admin "Add Property" Form (`/admin/add-property`)
 - **Multi-Image Uploader**:
   - Upload multiple local images from your device with instant thumbnail previews.
   - Add images via web URLs (Unsplash / CDN).
@@ -142,6 +149,7 @@ The repository has been developed incrementally with atomic, descriptive commits
 6. `feat(details): build property details page with lightbox gallery, video embed, enquiry form, and mobile sticky bar`
 7. `feat(admin): add admin property creator with multi-image upload, reordering, and video support`
 8. `docs: add comprehensive readme and push instructions`
+9. `feat(wishlist): implement property bookmarking and saved properties page with local storage`
 
 ---
 
