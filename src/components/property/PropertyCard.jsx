@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Bed, Bath, Maximize2, MapPin, Video, Eye, ArrowUpRight } from 'lucide-react';
+import { Bed, Bath, Maximize2, MapPin, Video, Eye, ArrowUpRight, Heart } from 'lucide-react';
 import { formatPrice, formatArea } from '../../utils/formatters';
 import { ListingTypeBadge, StatusBadge, VideoBadge, FeaturedBadge } from '../common/Badge';
+import { useWishlist } from '../../context/WishlistContext';
 
 export default function PropertyCard({ property, priority = false }) {
   const [imageLoaded, setImageLoaded] = useState(false);
   const [imageError, setImageError] = useState(false);
+  const { isInWishlist, toggleWishlist } = useWishlist();
 
   if (!property) return null;
 
@@ -71,11 +73,34 @@ export default function PropertyCard({ property, priority = false }) {
 
         {/* Top Badges */}
         <div className="absolute top-3 left-3 right-3 flex items-center justify-between pointer-events-none">
-          <div className="flex items-center gap-1.5 flex-wrap">
+          <div className="flex items-center gap-1.5 flex-wrap pointer-events-auto">
             <ListingTypeBadge type={listingType} />
             {featured && <FeaturedBadge />}
           </div>
-          {status && <StatusBadge status={status} />}
+          <div className="flex items-center gap-1.5 pointer-events-auto">
+            {status && <StatusBadge status={status} />}
+            <button
+              type="button"
+              onClick={(e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                toggleWishlist(id);
+              }}
+              className={`w-8 h-8 rounded-full flex items-center justify-center backdrop-blur-md shadow-md transition-all hover:scale-110 active:scale-90 ${
+                isInWishlist(id)
+                  ? 'bg-rose-500 text-white'
+                  : 'bg-white/80 text-slate-700 hover:bg-white hover:text-rose-500'
+              }`}
+              title={isInWishlist(id) ? 'Remove from Wishlist' : 'Add to Wishlist'}
+              aria-label={isInWishlist(id) ? 'Remove from Wishlist' : 'Add to Wishlist'}
+            >
+              <Heart
+                className={`w-4 h-4 transition-transform ${
+                  isInWishlist(id) ? 'fill-current scale-110' : ''
+                }`}
+              />
+            </button>
+          </div>
         </div>
 
         {/* Bottom Badges / Media Info */}
