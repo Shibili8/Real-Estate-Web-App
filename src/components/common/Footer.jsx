@@ -117,10 +117,14 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
-          <p>© {new Date().getFullYear()} HavenEstate Inc. All rights reserved. Mock Real Estate Portal.</p>
-          <p className="flex items-center gap-1">
-            Built with React 18, Vite & Tailwind CSS
-          </p>
+          <p>© {new Date().getFullYear()} HavenEstate Inc. All rights reserved.</p>
+          <div className="flex items-center gap-4">
+            <span className="hover:text-slate-400 transition-colors cursor-pointer">Privacy Policy</span>
+            <span>·</span>
+            <span className="hover:text-slate-400 transition-colors cursor-pointer">Terms of Service</span>
+            <span>·</span>
+            <span className="hover:text-slate-400 transition-colors cursor-pointer">Security</span>
+          </div>
         </div>
       </div>
     </footer>
